@@ -1,0 +1,1 @@
+export const CAROUSEL_DEFAULT_ITEM_NUMBER = 20;
